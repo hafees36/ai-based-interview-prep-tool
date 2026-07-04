@@ -1,6 +1,6 @@
 import requests
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_8ij3diDyb3FY4DBQmu1XGBWduwefj7PLWggT"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL_NAME = "llama-3.1-8b-instant"
 
