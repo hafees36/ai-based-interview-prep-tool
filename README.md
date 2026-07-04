@@ -134,4 +134,4 @@ B.Tech in Artificial Intelligence & Data Science
 
 GitHub: https://github.com/hafees36
 
-LinkedIn: linkedin.com/in/hafees-muhammed-v-a-95b947297
+LinkedIn: https://www.linkedin.com/in/hafees-muhammed-v-a-95b947297/
