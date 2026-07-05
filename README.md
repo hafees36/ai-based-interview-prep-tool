@@ -74,9 +74,9 @@ AI-Interview-Preparation-Tool
 │   │   ├── role_extraction.py
 │   │   ├── resume_parser.py
 │   │   ├── skill_extraction.py
-│   │   └──skill_gap.py
-│   │   └──speech_to_text.py
-│   │   └──video_monitor.py
+│   │   ├── skill_gap.py
+│   │   ├── speech_to_text.py
+│   │   └── video_monitor.py
 │   │
 │   ├── app.py
 │   └── requirements.txt
